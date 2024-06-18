@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maram</h1>
-<h3 align="center">I'm an enthusiastic data scientist who is dedicated to the art of uncovering valuable insights by delving into and dissecting data. My objective is to harness the power of data to guide informed decision-making, tackle intricate challenges, and weave compelling narratives through the medium of data</h3>
+<h3 align="center">My name is Maram Igqiem, and I am a dedicated Data Entry professional currently working with the Lutheran World Federation (LWF). I graduated from the University of Jordan with a degree in Computer Engineering, where I cultivated a strong foundation in technology and analytical thinking.
+
+My career began as a Math Tutor, where I developed my teaching skills and deepened my understanding of mathematical concepts. I then transitioned into data entry roles, honing my attention to detail and accuracy.
+
+Recently, I completed a rigorous AI and Data Science bootcamp, expanding my expertise into cutting-edge technologies. I have successfully undertaken several AI projects, showcasing my ability to apply theoretical knowledge to practical problems.
+
+In addition to my technical skills, I am passionate about design. I enjoy integrating my creative talents into my projects, blending aesthetics with functionality.
+
+I am continuously seeking opportunities to leverage my skills in AI, data science, and design to make meaningful contributions to my field.</h3>
 
 
 - 👩‍🎓 Education **Computer Engineering (2023) - University OF Jordan**
